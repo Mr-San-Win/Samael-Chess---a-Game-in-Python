@@ -4,10 +4,7 @@
 
 ### *A Single-File Python Chess Engine with Tkinter GUI*
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
-![Status](https://img.shields.io/badge/Project-Active-brightgreen)
-![License](https://img.shields.io/badge/License-Academic_Use-lightgrey)
+
 
 ---
 
